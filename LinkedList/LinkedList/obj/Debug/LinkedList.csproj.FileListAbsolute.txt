@@ -1,0 +1,12 @@
+\\banner.main.ad.rit.edu\students\mvr9788\igmprofile\documents\visual studio 2015\Projects\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+\\banner.main.ad.rit.edu\students\mvr9788\IGMProfile\Documents\Visual Studio 2015\Projects\LinkedList\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\mvr9788\IGMProfile\Documents\Visual Studio 2015\Projects\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+\\banner.main.ad.rit.edu\students\mvr9788\IGMProfile\Documents\Visual Studio 2015\Projects\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+\\banner.main.ad.rit.edu\students\mvr9788\IGMProfile\Documents\Visual Studio 2015\Projects\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+\\banner.main.ad.rit.edu\students\mvr9788\IGMProfile\Documents\Visual Studio 2015\Projects\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
+C:\Users\Michael\Desktop\CompFolder\hw\link\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\Michael\Desktop\CompFolder\hw\link\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\Michael\Desktop\CompFolder\hw\link\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
+C:\Users\Michael\Desktop\CompFolder\hw\link\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\Michael\Desktop\CompFolder\hw\link\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\Michael\Desktop\CompFolder\hw\link\LinkedList\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
